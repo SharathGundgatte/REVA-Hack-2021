@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "678536791695",
+    "project_id": "cb-share",
+    "storage_bucket": "cb-share.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678536791695:android:6a02ae3179186ea38e92fa",
+        "android_client_info": {
+          "package_name": "com.example.cbshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678536791695-4orc5vklsjnc9hvsqrcd4vrr16ibobg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYZRKxaMKdn2886Q4DrDKbHsdou9_C00A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678536791695-4orc5vklsjnc9hvsqrcd4vrr16ibobg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
